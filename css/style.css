@@ -13,37 +13,37 @@
         position: absolute;
         top: 20px;
         left: 44px;
-          /* border:2px solid red; */
-          color: white;
+        color: white;
     }
     .mid{
         display: block;
         width: 44%;
         margin: 20px auto;
-        /* border:2px solid rgb(66, 182, 31); */
-          color: white;
+        color: white;
 
     }
     .right{
         position: absolute;
         top: 20px;
         right: 34px;
-        /* border:2px solid rgb(182, 35, 116); */
-          color: white;
-
+        color: white;
     }
+
     .navbar{
         display: inline-block;
     }
+
     .navbar li{
         display: inline-block;
     }
+
     .navbar li a{
         color: white;
      text-decoration: none;
      padding: 15px 14px;
         
     }
+
     .navbar li a:hover, .navbar li a:active{
          text-decoration: underline;
          color: grey;
@@ -56,48 +56,51 @@
         border-radius: 8px;
         font-size: 14px;
         cursor: pointer;
-
     }
+
     .btn:hover{
         background-color: grey;
     }
+
     img{
         width: 107px ;
         padding-left: 10px;
         margin-bottom: -20px;
-        
-      
     }
+
     .left div{
         font-family: fantasy;
         font-size: 23px;
         text-align: center;
     }
+
     .container{
         border: 2px solid whitesmoke;
-    margin: 130px 57px;
-    padding: 0px 0px;
-    border-radius: 10px;
-    width: 45%;
+        margin: 130px 57px;
+        padding: 0px 0px;
+        border-radius: 10px;
+        width: 45%;
     }
+
     .form-group input{
         text-align: center;
-    font-size: 17px;
-    padding: 4px;
-    display: block;
-    border: 2px solid rgb(17, 16, 16);
-    margin: 3px auto;
-    width: 79%;
-    border-radius: 10px;
+        font-size: 17px;
+        padding: 4px;
+        display: block;
+        border: 2px solid rgb(17, 16, 16);
+        margin: 3px auto;
+        width: 79%;
+        border-radius: 10px;
     }
+
     .container h1{
         text-align: center;
     }
+
     .container button{
         font-family: cursive;
         font-size: 16px;
-      display: block;
-      width: 81%;
-      margin: 16px auto;
-
+        display: block;
+        width: 81%;
+        margin: 16px auto;
     }
